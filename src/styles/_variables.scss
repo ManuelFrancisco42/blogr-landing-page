@@ -1,0 +1,40 @@
+/* ===============
+ Variables Styles
+ =============== */
+
+:root {
+    /* COLORS */
+    
+    /* Primary */
+    --Light-red-primary-color: hsl(356, 100%, 66%);     
+    --Very-light-red-primary-color: hsl(355, 100%, 74%);   
+    --Very-dark-blue-primary-color: hsl(208, 49%, 24%);   
+    
+    /* Neutral */
+    --White-neutral-color: hsl(0, 0%, 100%);  
+    --Grayish-blue-neutral-color-1: hsla(240, 3%, 79%, 0.185);  
+    --Grayish-blue-neutral-color: hsl(240, 2%, 79%);  
+    --Very-dark-grayish-blue-neutral-color-1: hsla(206, 13%, 34%, 0.856);  
+    --Very-dark-grayish-blue-neutral-color: hsla(240, 7%, 94%, 1);  
+    --Very-dark-black-blue-neutral-color: hsl(240, 10%, 16%);  
+    
+    /* Gradient */
+    --Very-light-red-gradient-color: hsl(13, 100%, 72%); 
+    --Light-red-gradient-color: hsl(353, 100%, 62%); 
+    
+  
+    --Very-dark-gray-blue-gradient-color: hsl(237, 17%, 21%); 
+    --Very-dark-desaturated-blue-gradient-color: hsl(237, 23%, 32%); 
+    
+    /* ## TYPOGRAPHY */
+    --ffamily-overpass: 'Overpass', sans-serif;
+    --fweight-overpass-300: 300;
+    --fweight-overpass-600: 600;
+    
+    --ffamily-ubuntu: 'Ubuntu', sans-serif;
+    --fweight-ubuntu-400: 400;
+    --fweight-ubuntu-500: 500;
+    --fweight-ubuntu-700: 700;
+    --text-center: center;
+  }
+  
